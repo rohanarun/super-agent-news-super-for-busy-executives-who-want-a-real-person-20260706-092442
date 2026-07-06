@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/2025/qa-what-agentic-ai-today-and-what-do-we-want-it-be"
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI-Generated Workflows Are a Silent Security Disaster",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVVo4WmxQT1J1ZjA4UnlTa2RIVVBWYUNpQ2dKbm5xa2NfZWdPSXZneU1RdjhmOTk5dGtOQm4tcjZkM285SThCWVVHbFZaZ3NSLUpfWFlHSFhuMkhOYlFEd3NiWGxHSmlOS0JjZFhRVmxzdWJnbm5BZDZlN3VZMUd4SUNkWDFWVFQwaGU5VWtmWQ?oc=5"
+    },
+    {
+      "source": "Built In",
+      "title": "31 Popular AI Assistants in 2026",
+      "url": "https://builtin.com/artificial-intelligence/ai-assistants"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash('Super for busy executives who want a real personal assistant|niche_landing|busy executives who want a real personal assistant|2026-07-06T09:23:43.927517+00:00') \u2192 selected architecture=workflow-command-center; components=[workflow-playbook-timeline, gapless-bento-grid, source-card-dossier]; GSAP paradigms=[pinned-chapter-scroll, hover-physics]. AIDA Check: Hero captures Attention, proof chapters build Interest, computer-use cache demonstrations create Desire, repeated CTAs drive Action. Font Selection: Cabinet Grotesk for executive editorial tone. Hero Math Verification: clamp(44px\u201372px) with max-width 1120px yields consistent 2\u20133 line headline. Bento Density Verification: grid-auto-flow:dense confirmed. GSAP Motion Selection: scroll-triggered chapter fades + hover physics on cards. Label Sweep & Button Check: primary black pill CTA and high-contrast secondary CTA verified.",
+  "generated_at": "2026-07-06T09:24:49.262548+00:00",
+  "headline": "Super for busy executives who want a real personal assistant",
+  "site_brief": {
+    "audience": "busy executives who want a real personal assistant",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "busy executives who want a real personal assistant AI assistant",
+      "busy executives who want a real personal assistant personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-busy-executives-who-want-a-real-personal-assista",
+    "title": "Super for busy executives who want a real personal assistant"
+  },
+  "summary": "A premium niche landing page for senior leaders who need a personal AI agent that actually operates computers, remembers repeated work through a computer-use cache, and reduces friction in daily executive workflows like inbox triage, board prep, CRM updates, and reporting. Includes a long-form executive field guide, concrete workflows, and compliant structured data."
+}
